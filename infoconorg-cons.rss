@@ -1,0 +1,2281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>InfoCon Archives</title>
+        <link>https://infocon.org/cons/</link>
+        <description>infocon.org torrents of hacking and security conferences. Please subscribe to this RSS feed to automatically download all new and updated torrents.</description>
+        <generator>Feeder 3 3.7.5(3340); Mac OS X Version 10.16 (Build 20D91) http://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en-us</language>
+        <copyright>© 2018-2021 Infocon</copyright>
+        <managingEditor>dtangent@defcon.org (The Dark Tangent)</managingEditor>
+        <webMaster>dtangent@defcon.org</webMaster>
+        <pubDate>Thu, 03 Jun 2021 16:04:54 -0700</pubDate>
+        <lastBuildDate>Thu, 03 Jun 2021 16:04:54 -0700</lastBuildDate>
+        <category domain="https://infocon.org/cons/">Cons</category>
+        <image>
+            <url>https://infocon.org/infocon.org-images/infocon-logo.png</url>
+            <title>InfoCon Archives</title>
+            <link>https://infocon.org/cons/</link>
+            <width>144</width>
+            <height>144</height>
+        </image>
+        <item>
+            <title>NahamCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/NahamCon</link>
+            <description><![CDATA[All the NahamCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 18:00:21 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NahamCon archive v2 - infocon.org.torrent" length="816241111" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NahamCon-v2-1</guid>
+        </item>
+        <item>
+            <title>NahamCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/NahamCon</link>
+            <description><![CDATA[All the NahamCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 17:59:36 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NahamCon archive v1 - infocon.org.torrent" length="816241111" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NahamCon-1</guid>
+        </item>
+        <item>
+            <title>PancakesCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/PancakesCon</link>
+            <description><![CDATA[All the PancakesCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:53:05 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PancakesCon archive v2 - infocon.org.torrent" length="2048079855" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PancakesCon-v2-1</guid>
+        </item>
+        <item>
+            <title>PancakesCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/PancakesCon</link>
+            <description><![CDATA[All the PancakesCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:53:07 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PancakesCon archive v1 - infocon.org.torrent" length="2048079855" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Pancakescon-1</guid>
+        </item>
+        <item>
+            <title>Diana Initiative Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Diana Initiative</link>
+            <description><![CDATA[All the Diana Initiative conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:55:58 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Diana Initiative archive v2 - infocon.org.torrent" length="4237369324" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">diana-v2-1</guid>
+        </item>
+        <item>
+            <title>Diana Initiative Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Diana Initiative</link>
+            <description><![CDATA[All the Diana Initiative conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:54:55 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Diana Initiative archive v1 - infocon.org.torrent" length="4237369324" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">diana-1</guid>
+        </item>
+        <item>
+            <title>2600 HOPE Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/2600</link>
+            <description><![CDATA[All the 2600 HOPE conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:19:43 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/2600 archive v2 - infocon.org.torrent" length="70328374463" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">2600-v2-1</guid>
+        </item>
+        <item>
+            <title>2600 HOPE Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/2600</link>
+            <description><![CDATA[All the 2600 HOPE conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:19:40 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/2600 archive v1 - infocon.org.torrent" length="70328374463" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">2600-3</guid>
+        </item>
+        <item>
+            <title>44Con Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/44Con</link>
+            <description><![CDATA[All the 44Con conference audio and video that we could find. 2014 is pay per view on Vimeo.]]></description>
+            <pubDate>Mon, 30 Dec 2019 11:52:17 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/44Con archive - infocon.org.torrent" length="24531606115" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">44con-7</guid>
+        </item>
+        <item>
+            <title>ACK Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/ACK Security Conference</link>
+            <description><![CDATA[All the ACK conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:22:41 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ACK Security Conference archive - infocon.org.torrent" length="158497273" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ACK-2</guid>
+        </item>
+        <item>
+            <title>ACoD Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ACoD</link>
+            <description><![CDATA[All the ACoD conference audio and video we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:15:49 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ACoD archive v1 - infocon.org.torrent" length="5997184975" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ACoD-4</guid>
+        </item>
+        <item>
+            <title>AIDE Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/AIDE</link>
+            <description><![CDATA[All the AIDE Conference audio and video we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:17:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/AIDE archive v1 - infocon.org.torrent" length="1757056762" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AIDE-6</guid>
+        </item>
+        <item>
+            <title>AirGap Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/AirGap</link>
+            <description><![CDATA[All the AirGap conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:18:55 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/AirGap archive v1 - infocon.org.torrent" length="601186141" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AirGap-2</guid>
+        </item>
+        <item>
+            <title>Android Security Symposium Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Android Security Symposium</link>
+            <description><![CDATA[All the Android Security Symposium conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:31:33 -0700</pubDate>
+            <enclosure url="https://infocon.org/cons/Android Security Symposium archive v1 - infocon.org.torrent" length="2711472667" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ASS-4</guid>
+        </item>
+        <item>
+            <title>ANYCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/ANYCon</link>
+            <description><![CDATA[All the ANYCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 15:56:19 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ANYCon archive v2 - infocon.org.torrent" length="5191403324" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ANYCon-v2-1</guid>
+        </item>
+        <item>
+            <title>ANYCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ANYCon</link>
+            <description><![CDATA[All the ANYCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:26:39 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ANYCon archive v1 - infocon.org.torrent" length="3726025793" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">anycon-4</guid>
+        </item>
+        <item>
+            <title>ArchC0N Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ArchC0N</link>
+            <description><![CDATA[All the ArchC0N conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:28:51 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ArchC0N archive v1 - infocon.org.torrent" length="1546841685" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ArchC0N-2</guid>
+        </item>
+        <item>
+            <title>Area41 Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Area41</link>
+            <description><![CDATA[All the Area41 conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:37:52 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Area41 archive v1 - infocon.org.torrent" length="5390015702" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Area41-5</guid>
+        </item>
+        <item>
+            <title>AthCon Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/AthCon</link>
+            <description><![CDATA[All the AthCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:58:13 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/AthCon archive v1 - infocon.org.torrent" length="1418397132" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AthCon-2</guid>
+        </item>
+        <item>
+            <title>AtlSecCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/AtlSecCon</link>
+            <description><![CDATA[All the AtlSecCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:54:04 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/AtlSecCon archive v1 - infocon.org.torrent" length="1826440169" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AtlSecCon-2</guid>
+        </item>
+        <item>
+            <title>ATT&amp;CKcon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/ATT&amp;CKcon</link>
+            <description><![CDATA[All the ATT&CKcon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:54:53 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ATT&amp;CKcon archive v2 - infocon.org.torrent" length="3732807253" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ATT&amp;CKcon-v2-1</guid>
+        </item>
+        <item>
+            <title>ATT&amp;CKcon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ATT&amp;CKcon</link>
+            <description><![CDATA[All the ATT&CKcon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:55:49 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ATT&amp;CKcon archive v1 - infocon.org.torrent" length="3227441664" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ATT&amp;CKcon-5</guid>
+        </item>
+        <item>
+            <title>AusCERT Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/AusCERT</link>
+            <description><![CDATA[All the AusCERT conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:59:18 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/AusCERT archive v2 - infocon.org.torrent" length="11377922362" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AusCERT-v2-1</guid>
+        </item>
+        <item>
+            <title>AusCERT Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/AusCERT</link>
+            <description><![CDATA[All the AusCERT conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:00:11 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/AusCERT archive v1 - infocon.org.torrent" length="13118078485" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AusCERT-6</guid>
+        </item>
+        <item>
+            <title>BalCCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/BalCCon</link>
+            <description><![CDATA[All the BalCCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:04:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/BalCCon archive v1 - infocon.org.torrent" length="10059266009" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">BalCCon-6</guid>
+        </item>
+        <item>
+            <title>Black Alps Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Black Alps</link>
+            <description><![CDATA[All the Black Alps conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:03:10 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Black Alps archive v1 - infocon.org.torrent" length="3292161920" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">blackalps-6</guid>
+        </item>
+        <item>
+            <title>Black Hat Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Black Hat</link>
+            <description><![CDATA[All the Black Hat conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:02:09 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Black Hat archive v1 - infocon.org.torrent" length="159785858468" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">BlackHat-9</guid>
+        </item>
+        <item>
+            <title>BloomCON Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/BloomCON</link>
+            <description><![CDATA[All the BloomCON conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:06:16 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/BloomCON archive v1 - infocon.org.torrent" length="1113910083" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">BloomCON-4</guid>
+        </item>
+        <item>
+            <title>Blue Hat Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Blue Hat</link>
+            <description><![CDATA[All the Blue Hat conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:52:16 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Blue Hat archive v2 - infocon.org.torrent" length="10919565365" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">bluehat-v2-1</guid>
+        </item>
+        <item>
+            <title>Blue Hat Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Blue Hat</link>
+            <description><![CDATA[All the Blue Hat conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:52:21 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Blue Hat archive v1 - infocon.org.torrent" length="10919565365" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">bluehat-7</guid>
+        </item>
+        <item>
+            <title>BodyHacking Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/BodyHacking</link>
+            <description><![CDATA[All the BodyHacking conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:28:07 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/BodyHacking archive - infocon.org.torrent" length="1831101488" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">BodyHacking-3</guid>
+        </item>
+        <item>
+            <title>Bornhack Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Bornhack</link>
+            <description><![CDATA[All the Bornhack conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:57:03 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Bornhack archive - infocon.org.torrent" length="10460031426" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Bornhack-6</guid>
+        </item>
+        <item>
+            <title>BotConf Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/BotConf</link>
+            <description><![CDATA[All the BotConf conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:05:32 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/BotConf archive v2- infocon.org.torrent" length="6889731960" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">botconf-v2-1</guid>
+        </item>
+        <item>
+            <title>BotConf Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/BotConf</link>
+            <description><![CDATA[All the BotConf conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:07:33 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/BotConf archive v1 - infocon.org.torrent" length="5058056217" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">botconf-6</guid>
+        </item>
+        <item>
+            <title>BruCon Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/BruCON</link>
+            <description><![CDATA[All the BruCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:28:46 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/BruCON archive - infocon.org.torrent" length="16447866982" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">brucon-6</guid>
+        </item>
+        <item>
+            <title>c0c0n Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/c0c0n</link>
+            <description><![CDATA[All the c0c0n conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 16:52:20 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/c0c0n archive v2 - infocon.org.torrent" length="809441326" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">c0c0n-v2-1</guid>
+        </item>
+        <item>
+            <title>c0c0n Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/c0c0n</link>
+            <description><![CDATA[All the c0c0n conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 16:53:10 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/c0c0n archive v1 - infocon.org.torrent" length="809441326" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">c0c0n-3</guid>
+        </item>
+        <item>
+            <title>CackalackyCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CackalackyCon</link>
+            <description><![CDATA[All the CackalackyCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:29:16 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CackalackyCon archive v1 - infocon.org.torrent" length="1226747524" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CackalackyCon-3</guid>
+        </item>
+        <item>
+            <title>CactusCon Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CactusCon</link>
+            <description><![CDATA[All the CactusCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 16:57:25 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CactusCon archive v2 - infocon.org.torrent" length="2339503694" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CactusCon-v2-1</guid>
+        </item>
+        <item>
+            <title>CactusCon Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CactusCon</link>
+            <description><![CDATA[All the CactusCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 16:57:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CactusCon archive v1 - infocon.org.torrent" length="2339503694" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CactusCon-2</guid>
+        </item>
+        <item>
+            <title>CarolinaCon Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/CarolinaCon</link>
+            <description><![CDATA[All the CarolinaCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:30:00 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CarolinaCon archive - infocon.org.torrent" length="12094075159" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CarolinaCon-4</guid>
+        </item>
+        <item>
+            <title>CCC Camp Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Chaos Computer Club - Camp</link>
+            <description><![CDATA[All the CCC Camp conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 17:05:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - Camp archive v2 - infocon.org.torrent" length="48128803186" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CCCCamp-v2-2</guid>
+        </item>
+        <item>
+            <title>CCC Camp Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Chaos Computer Club - Camp</link>
+            <description><![CDATA[All the CCC Camp conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 17:05:26 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - Camp archive v1 - infocon.org.torrent" length="48128803186" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CCCCamp-2</guid>
+        </item>
+        <item>
+            <title>CCC Easterhegg Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CCC - Easterhegg</link>
+            <description><![CDATA[All the CCC Easterhegg conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:21:08 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - Easterhegg archive v2 - infocon.org.torrent" length="19567970384" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CCC-Easterhegg-v2-1</guid>
+        </item>
+        <item>
+            <title>CCC Easterhegg Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CCC - Easterhegg</link>
+            <description><![CDATA[All the CCC Easterhegg conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:21:04 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - Easterhegg archive v1 - infocon.org.torrent" length="19567970384" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CCC-Easterhegg-5</guid>
+        </item>
+        <item>
+            <title>CCC - Privacy Week Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CCC - Congress</link>
+            <description><![CDATA[All the CCC - Privacy Week conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 17:03:26 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - PrivacyWeek archive v2 - infocon.org.torrent" length="14807895282" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ccc-privacyweek-v2-1</guid>
+        </item>
+        <item>
+            <title>CCC - Privacy Week Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CCC - Congress</link>
+            <description><![CDATA[All the CCC - Privacy Week conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 31 Mar 2021 17:02:24 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - PrivacyWeek archive v1 - infocon.org.torrent" length="14807895282" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ccc-privacyweek-1</guid>
+        </item>
+        <item>
+            <title>CCC - Congress Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CCC - Congress</link>
+            <description><![CDATA[All the CCC - Congress conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:21:37 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - Congress archive v2 - infocon.org.torrent" length="296789933806" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ccc-congress-v2-1</guid>
+        </item>
+        <item>
+            <title>CCC - Congress Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CCC - Congress</link>
+            <description><![CDATA[All the CCC - Congress conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:21:35 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - Congress archive v1 - infocon.org.torrent" length="296789933806" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ccc-congress-7</guid>
+        </item>
+        <item>
+            <title>CCC - CryptoCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/CCC - CryptoCon</link>
+            <description><![CDATA[All the CCC - CryptoCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:31:27 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - CryptoCon archive - infocon.org.torrent" length="3059354093" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CCC-CryptoCon-1</guid>
+        </item>
+        <item>
+            <title>Chaos Computer Club - SigInt Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/CCC - SigInt</link>
+            <description><![CDATA[All the Chaos Computer Club - SigInt conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:32:06 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CCC - SigInt archive - infocon.org.torrent" length="52044868540" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CCC-SigInt-1</guid>
+        </item>
+        <item>
+            <title>CharruaCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CharruaCon</link>
+            <description><![CDATA[All the CharruaCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:50:44 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CharruaCon archive v1 - infocon.org.torrent" length="883970937" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CharruaCon-3</guid>
+        </item>
+        <item>
+            <title>CERIAS Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CERIAS</link>
+            <description><![CDATA[All the CERIAS conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:44:46 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CERIAS archive v1 - infocon.org.torrent" length="21800011163" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CERIAS-6</guid>
+        </item>
+        <item>
+            <title>CircleCityCon Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CircleCityCon</link>
+            <description><![CDATA[All the CircleCityCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:53:27 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CircleCityCon archive v1 - infocon.org.torrent" length="11010087641" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">circlecitycon-7</guid>
+        </item>
+        <item>
+            <title>CODE BLUE Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CODE BLUE</link>
+            <description><![CDATA[All the CODE BLUE conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:32:16 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CODE BLUE archive v2 - infocon.org.torrent" length="13808920071" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">codeblue-v2-1</guid>
+        </item>
+        <item>
+            <title>CODE BLUE Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CODE BLUE</link>
+            <description><![CDATA[All the CODE BLUE conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:32:07 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CODE BLUE archive v1 - infocon.org.torrent" length="13808920071" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">codeblue-7</guid>
+        </item>
+        <item>
+            <title>COIS Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/COIS</link>
+            <description><![CDATA[All the COIS conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:49:40 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/COIS archive v1 - infocon.org.torrent" length="2643030128" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">COIS-2</guid>
+        </item>
+        <item>
+            <title>ComfyCon AU Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/ComfyCon AU</link>
+            <description><![CDATA[All the ComfyCon AU conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:14:15 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ComfyCon AU archive v2 - infocon.org.torrent" length="2312210335" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ComfyCon-v2-1</guid>
+        </item>
+        <item>
+            <title>ComfyCon AU Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ComfyCon AU</link>
+            <description><![CDATA[All the ComfyCon AU conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:55:30 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ComfyCon AU archive v1 - infocon.org.torrent" length="2312210335" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ComfyCon-3</guid>
+        </item>
+        <item>
+            <title>CONFidence Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CONFidence</link>
+            <description><![CDATA[All the CONFidence conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:57:24 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CONFidence archive v1 - infocon.org.torrent" length="16159658975" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CONFidence-5</guid>
+        </item>
+        <item>
+            <title>ConVerge Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ConVerge</link>
+            <description><![CDATA[All the ConVerge conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:59:13 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ConVerge archive v1 - infocon.org.torrent" length="4455263679" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ConVerge-6</guid>
+        </item>
+        <item>
+            <title>CornCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CornCon</link>
+            <description><![CDATA[All the CornCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:09:10 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CornCon archive v2 - infocon.org.torrent" length="8773156546" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CornCon-v2-1</guid>
+        </item>
+        <item>
+            <title>CornCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CornCon</link>
+            <description><![CDATA[All the CornCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 15:59:57 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CornCon archive v1 - infocon.org.torrent" length="7237117392" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CornCon-6</guid>
+        </item>
+        <item>
+            <title>COUNTERMEASURE Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/COUNTERMEASURE</link>
+            <description><![CDATA[All the COUNTERMEASURE conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:34:49 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/COUNTERMEASURE archive v1 - infocon.org.torrent" length="3028732161" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">COUNTERMEASURE-3</guid>
+        </item>
+        <item>
+            <title>CrikeyCon Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CrikeyCon</link>
+            <description><![CDATA[All the CrikeyCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 16:02:11 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CrikeyCon archive v1 - infocon.org.torrent" length="2787937058" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">crikeycon-7</guid>
+        </item>
+        <item>
+            <title>CyberCamp Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/CyberCamp/</link>
+            <description><![CDATA[All the CyberCamp conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:27:35 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CyberCamp archive - infocon.org.torrent" length="63956154976" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CyberCamp-2</guid>
+        </item>
+        <item>
+            <title>CYBERWARCON Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/CYBERWARCON</link>
+            <description><![CDATA[All the CYBERWARCON conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 13:43:25 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CYBERWARCON archive - infocon.org.torrent" length="1041304254" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CYBERWARCON-1</guid>
+        </item>
+        <item>
+            <title>CyCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/CyCon</link>
+            <description><![CDATA[All the CyCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 15:42:16 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CyCon archive v2 - infocon.org.torrent" length="40180100608" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Cycon-v2-1</guid>
+        </item>
+        <item>
+            <title>CyCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/CyCon</link>
+            <description><![CDATA[All the CyCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 15:42:18 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CyCon archive v1 - infocon.org.torrent" length="40180100608" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Cycon-6</guid>
+        </item>
+        <item>
+            <title>CypherCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/CypherCon</link>
+            <description><![CDATA[All the CypherCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:48:58 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/CypherCon archive - infocon.org.torrent" length="4887714077" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">CypherCon-5</guid>
+        </item>
+        <item>
+            <title>DakotaCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/DakotaCon</link>
+            <description><![CDATA[All the DakotaCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:35:30 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DakotaCon archive - infocon.org.torrent" length="3741571161" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">dakotacon-5</guid>
+        </item>
+        <item>
+            <title>DeepSec Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/DeepSec</link>
+            <description><![CDATA[All the DeepSec conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 11 May 2020 17:25:39 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DeepSec archive - infocon.org.torrent" length="32543726409" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DeepSec-5</guid>
+        </item>
+        <item>
+            <title>DefCamp Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/DefCamp</link>
+            <description><![CDATA[All the DefCamp conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:36:00 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DefCamp archive - infocon.org.torrent" length="29236586159" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DefCamp-4</guid>
+        </item>
+        <item>
+            <title>DEF CON Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/DEF CON</link>
+            <description><![CDATA[All the DEF CON conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 12:36:03 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DEF CON archive - infocon.org.torrent" length="1475679293993" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DEFCON-8</guid>
+        </item>
+        <item>
+            <title>DEF CON Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/DEF CON</link>
+            <description><![CDATA[All the DEF CON conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:35:27 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DEF CON archive v2 - infocon.org.torrent" length="1475679293993" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DEFCON-v2-1</guid>
+        </item>
+        <item>
+            <title>DefensiveCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/DefensiveCon</link>
+            <description><![CDATA[All the DefensiveCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:27:54 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DefensiveCon archive v2 - infocon.org.torrent" length="1942569527" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DefensiveCon-v2-1</guid>
+        </item>
+        <item>
+            <title>DefensiveCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/DefensiveCon</link>
+            <description><![CDATA[All the DefensiveCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:33:18 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DefensiveCon archive v1 - infocon.org.torrent" length="1942569527" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DefensiveCon-1</guid>
+        </item>
+        <item>
+            <title>DerbyCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/DerbyCon</link>
+            <description><![CDATA[All the DerbyCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 13:31:06 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DerbyCon archive v2 - infocon.org.torrent" length="38336973045" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DerbyCon-v2-1</guid>
+        </item>
+        <item>
+            <title>DerbyCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/DerbyCon</link>
+            <description><![CDATA[All the DerbyCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 13:31:04 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DerbyCon archive v1 - infocon.org.torrent" length="38336973045" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DerbyCon-6</guid>
+        </item>
+        <item>
+            <title>DevSecCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/DevSecCon</link>
+            <description><![CDATA[All the DevSecCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:36:35 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DevSecCon archive - infocon.org.torrent" length="3646221295" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DevSecCon-2</guid>
+        </item>
+        <item>
+            <title>Disobey Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Disobey</link>
+            <description><![CDATA[All the Disobey conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:36:58 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Disobey archive - infocon.org.torrent" length="9285681855" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">disobey-4</guid>
+        </item>
+        <item>
+            <title>DNS-OARC Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/DNS-OARC</link>
+            <description><![CDATA[All the DNS-OARC conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 13:58:06 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DNS-OARC archive - infocon.org.torrent" length="17153151073" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DNS-OARC-1</guid>
+        </item>
+        <item>
+            <title>DoJoCon Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/DoJoCon</link>
+            <description><![CDATA[All the DoJoCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:37:52 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DoJoCon archive - infocon.org.torrent" length="1399185909" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DoJoCon-1</guid>
+        </item>
+        <item>
+            <title>DragonJAR Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/DragonJAR</link>
+            <description><![CDATA[All the DragonJAR conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:32:13 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DragonJAR archive v2 - infocon.org.torrent" length="16627309992" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DragonJAR-v2-1</guid>
+        </item>
+        <item>
+            <title>DragonJAR Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/DragonJAR</link>
+            <description><![CDATA[All the DragonJAR conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:32:15 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/DragonJAR archive v1 - infocon.org.torrent" length="16627309992" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">DragonJAR-4</guid>
+        </item>
+        <item>
+            <title>Ekoparty Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Ekoparty</link>
+            <description><![CDATA[All the Ekoparty conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:55:17 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Ekoparty archive v2 - infocon.org.torrent" length="37063857332" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ekoparty-v2-1</guid>
+        </item>
+        <item>
+            <title>Ekoparty Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Ekoparty</link>
+            <description><![CDATA[All the Ekoparty conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:55:24 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Ekoparty archive v1 - infocon.org.torrent" length="37063857332" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ekoparty-7</guid>
+        </item>
+        <item>
+            <title>Electromagnetic Field Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Electromagnetic Field</link>
+            <description><![CDATA[All the Electromagnetic Field conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:39:10 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Electromagnetic Field archive - infocon.org.torrent" length="21090065105" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ElectromagneticField-3</guid>
+        </item>
+        <item>
+            <title>eth0 Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/eth0</link>
+            <description><![CDATA[All the eth0 conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:39:34 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/eth0 archive - infocon.org.torrent" length="17475493758" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">eth0-2</guid>
+        </item>
+        <item>
+            <title>FOSDEM Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/FOSDEM</link>
+            <description><![CDATA[All the FOSDEM conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:34:50 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/FOSDEM archive v2 - infocon.org.torrent" length="157340913058" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">fosdem-v2-1</guid>
+        </item>
+        <item>
+            <title>FOSDEM Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/FOSDEM</link>
+            <description><![CDATA[All the FOSDEM conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:35:15 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/FOSDEM archive v1 - infocon.org.torrent" length="157340913058" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">fosdem-5</guid>
+        </item>
+        <item>
+            <title>FSec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/FSec</link>
+            <description><![CDATA[All the FSec conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:44:03 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/FSec archive - infocon.org.torrent" length="2488405840" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">FSec-3</guid>
+        </item>
+        <item>
+            <title>Grayhat Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Grayhat</link>
+            <description><![CDATA[All the Grayhat conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:04:03 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Grayhat archive - infocon.org.torrent" length="2539714311" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Grayhat-1</guid>
+        </item>
+        <item>
+            <title>GreHack Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/GreHack</link>
+            <description><![CDATA[All the GreHack conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:54:53 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/GreHack archive v2 - infocon.org.torrent" length="4236784478" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">GreHack-v2-1</guid>
+        </item>
+        <item>
+            <title>GreHack Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/GreHack</link>
+            <description><![CDATA[All the GreHack conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:54:55 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/GreHack archive v1 - infocon.org.torrent" length="4236784478" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">GreHack-5</guid>
+        </item>
+        <item>
+            <title>GrrCON Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/GrrCON</link>
+            <description><![CDATA[All the GrrCON conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:40:27 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/GrrCON archive - infocon.org.torrent" length="26057394452" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">grrcon-5</guid>
+        </item>
+        <item>
+            <title>Hackaday Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Hackaday</link>
+            <description><![CDATA[All the Hackaday conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:30:54 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackaday archive v2 - infocon.org.torrent" length="10214652341" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackaday-v2-1</guid>
+        </item>
+        <item>
+            <title>Hackaday Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Hackaday</link>
+            <description><![CDATA[All the Hackaday conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:30:55 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackaday archive v1 - infocon.org.torrent" length="10214652341" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackaday-4</guid>
+        </item>
+        <item>
+            <title>HackInBo Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/HackInBo</link>
+            <description><![CDATA[All the HackInBo conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:23:14 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/HackInBo archive v2 - infocon.org.torrent" length="6822619663" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HackInBo-v2-1</guid>
+        </item>
+        <item>
+            <title>HackInBo Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/HackInBo</link>
+            <description><![CDATA[All the HackInBo conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:23:18 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/HackInBo archive v1 - infocon.org.torrent" length="6822619663" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HackInBo-5</guid>
+        </item>
+        <item>
+            <title>HackMiamiCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/HackMiamiCon</link>
+            <description><![CDATA[All the HackMiamiCon conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 13:41:53 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/HackMiamiCon archive - infocon.org.torrent" length="4463093817" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HackMiamiCon-1</guid>
+        </item>
+        <item>
+            <title>Hack In Paris Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hack In Paris</link>
+            <description><![CDATA[All the Hack In Paris conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:41:11 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hack In Paris archive - infocon.org.torrent" length="17486450810" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">hackinparis-6</guid>
+        </item>
+        <item>
+            <title>Hack In The Box Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hack In The Box</link>
+            <description><![CDATA[All the Hack In The Box conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:30:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hack In The Box archive - infocon.org.torrent" length="80159572068" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HITB-9</guid>
+        </item>
+        <item>
+            <title>Hack In The Random Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hack In The Random</link>
+            <description><![CDATA[All the Hack In The Random conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:41:49 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hack In The Random archive - infocon.org.torrent" length="4257450049" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hack-In-The-Random-1</guid>
+        </item>
+        <item>
+            <title>Hack.lu Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hack.lu</link>
+            <description><![CDATA[All the Hack.lu conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:42:09 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hack.lu archive - infocon.org.torrent" length="7170476631" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">hack.lu-5</guid>
+        </item>
+        <item>
+            <title>Hack3rcon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hack3rcon</link>
+            <description><![CDATA[All the Hack3rcon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:42:24 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hack3rcon archive - infocon.org.torrent" length="8451781374" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hack3rcon-1</guid>
+        </item>
+        <item>
+            <title>Hacker Hotel Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hacker Hotel</link>
+            <description><![CDATA[All the Hacker Hotel conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:21:16 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hacker Hotel archive - infocon.org.torrent" length="6991858548" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HackerHotel-5</guid>
+        </item>
+        <item>
+            <title>Hackers At Large Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hackers At Large</link>
+            <description><![CDATA[All the Hackers At Large conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 12:43:15 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackers At Large archive - infocon.org.torrent" length="9694623853" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackers-At-Large-1</guid>
+        </item>
+        <item>
+            <title>Hackers 2 Hackers Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hackers 2 Hackers Conference</link>
+            <description><![CDATA[All the Hackers 2 Hackers conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:10:40 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackers 2 Hackers Conference archive - infocon.org.torrent" length="23291529189" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackers2Hackers-5</guid>
+        </item>
+        <item>
+            <title>Hackfest Hacking Conference Series in x.265 formatHackfest BTv2</title>
+            <link>https://infocon.org/cons/Hackfest</link>
+            <description><![CDATA[All the Hackfest conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:22:47 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackfest archive v2 - infocon.org.torrent" length="20827120691" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackfest-v2-1</guid>
+        </item>
+        <item>
+            <title>Hackfest Hacking Conference Series in x.265 formatHackfest BTv1</title>
+            <link>https://infocon.org/cons/Hackfest</link>
+            <description><![CDATA[All the Hackfest conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:22:54 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackfest archive v1 - infocon.org.torrent" length="20827120691" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackfest-6</guid>
+        </item>
+        <item>
+            <title>Hacking At Random Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hacking At Random - infocon.org.torrent</link>
+            <description><![CDATA[All the Hacking At Random conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:11:36 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hacking At Random - infocon.org.torrent" length="8800751180" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hacking-At-Random-1</guid>
+        </item>
+        <item>
+            <title>Hackito Ergo Sum Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hackito Ergo Sum - infocon.org.torrent</link>
+            <description><![CDATA[All the Hackito Ergo Sum conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:12:09 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hackito Ergo Sum - infocon.org.torrent" length="5200817358" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hackito-Ergo-Sum-1</guid>
+        </item>
+        <item>
+            <title>Hacktivity Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hacktivity</link>
+            <description><![CDATA[All the Hacktivity conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:33:03 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hacktivity archive - infocon.org.torrent" length="63693522146" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">hacktivity-6</guid>
+        </item>
+        <item>
+            <title>Hacks In Taiwan Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hacks In Taiwan</link>
+            <description><![CDATA[All the Hacks In Taiwan conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:13:15 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hacks In Taiwan archive - infocon.org.torrent" length="1782193867" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hacks-In-Taiwan-1</guid>
+        </item>
+        <item>
+            <title>Hash Days Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Hash Days</link>
+            <description><![CDATA[All the Hash Days conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:13:41 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Hash Days archive - infocon.org.torrent" length="11759096383" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Hash-Days-1</guid>
+        </item>
+        <item>
+            <title>hardware.io Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/hardware.io - infocon.org.torrent</link>
+            <description><![CDATA[All the hardware.io conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:22:00 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/hardware.io - infocon.org.torrent" length="9760069015" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">hardware.io-7</guid>
+        </item>
+        <item>
+            <title>HCPP Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/HCPP - infocon.org.torrent</link>
+            <description><![CDATA[All the HCPP conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:43:44 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/HCPP - infocon.org.torrent" length="16830381084" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HCPP-3</guid>
+        </item>
+        <item>
+            <title>HITCON Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/HITCON</link>
+            <description><![CDATA[All the HITCON conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:44:54 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/HITCON - infocon.org.torrent" length="7931294784" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HITCON-5</guid>
+        </item>
+        <item>
+            <title>HouSecCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/HouSecCon</link>
+            <description><![CDATA[All the HouSecCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:45:17 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/HouSecCon archive - infocon.org.torrent" length="2915939910" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">HouSecCon-1</guid>
+        </item>
+        <item>
+            <title>ICANN Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/ICANN - infocon.org.torrent</link>
+            <description><![CDATA[All the ICANN conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:45:48 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ICANN - infocon.org.torrent" length="11990885388" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ICANN-5</guid>
+        </item>
+        <item>
+            <title>IEEE Security and Privacy Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/IEEE Security and Privacy - infocon.org.torrent</link>
+            <description><![CDATA[All the IEEE Security and Privacy conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:10:43 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/IEEE Security and Privacy - infocon.org.torrent" length="15455578074" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">IEEE-3</guid>
+        </item>
+        <item>
+            <title>IETF Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/IETF - infocon.org.torrent</link>
+            <description><![CDATA[All the IETF conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:14:40 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/IETF archive v2 - infocon.org.torrent" length="219010797444" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">IETF-v2-1</guid>
+        </item>
+        <item>
+            <title>IETF Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/IETF - infocon.org.torrent</link>
+            <description><![CDATA[All the IETF conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:14:41 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/IETF archive v1 - infocon.org.torrent" length="219010797444" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">IETF-7</guid>
+        </item>
+        <item>
+            <title>Infiltrate Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Infiltrate - infocon.org.torrent</link>
+            <description><![CDATA[All the Infiltrate conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:46:58 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Infiltrate - infocon.org.torrent" length="10613419917" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">infiltrate-4</guid>
+        </item>
+        <item>
+            <title>InfoWarCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/InfoWarCon - infocon.org.torrent</link>
+            <description><![CDATA[All the InfoWarCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:47:21 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/InfoWarCon - infocon.org.torrent" length="2680072568" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">InfoWarCon-2</guid>
+        </item>
+        <item>
+            <title>Insomnihack Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Insomnihack</link>
+            <description><![CDATA[All the Insomnihack conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:47:36 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Insomnihack archive - infocon.org.torrent" length="5733174154" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">insomnihack-5</guid>
+        </item>
+        <item>
+            <title>Intro Sec Con Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Intro Sec Con</link>
+            <description><![CDATA[All the Intro Sec Con conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 13:57:02 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Intro Sec Con - infocon.org.torrent" length="1015212180" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Intro Sec Con-1</guid>
+        </item>
+        <item>
+            <title>IRISSCERT Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/IRISSCERT - infocon.org.torrent</link>
+            <description><![CDATA[All the IRISSCERT conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:47:53 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/IRISSCERT - infocon.org.torrent" length="1091281767" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">IRISSCERT-4</guid>
+        </item>
+        <item>
+            <title>Kawaiicon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Kawaiicon</link>
+            <description><![CDATA[All the Kawaiicon conference audio and video that we could find.]]></description>
+            <pubDate>Tue, 03 Mar 2020 22:18:46 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Kawaiicon archive - infocon.org.torrent" length="248065005" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Kawaiicon-1</guid>
+        </item>
+        <item>
+            <title>KazHackStan Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/KazHackStan</link>
+            <description><![CDATA[All the KazHackStan conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:35:09 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/KazHackStan archive - infocon.org.torrent" length="8151176547" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">KazHackStan-3</guid>
+        </item>
+        <item>
+            <title>KiwiCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/KiwiCon</link>
+            <description><![CDATA[All the KiwiCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:48:39 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/KiwiCon archive - infocon.org.torrent" length="3391312345" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">AA2F36EC-EDE1-4D3F-9B7D-C223D22F7181</guid>
+        </item>
+        <item>
+            <title>KringleCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/KringleCon</link>
+            <description><![CDATA[All the KringleCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:04:31 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/KringleCon archive v2 - infocon.org.torrent" length="1403744045" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">KringleCon-v2-1</guid>
+        </item>
+        <item>
+            <title>KringleCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/KringleCon</link>
+            <description><![CDATA[All the KringleCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:04:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/KringleCon archive v1 - infocon.org.torrent" length="1403744045" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">KringleCon-2</guid>
+        </item>
+        <item>
+            <title>LASCON Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/LASCON</link>
+            <description><![CDATA[All the LASCON conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:45:45 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/LASCON archive - infocon.org.torrent" length="40995425523" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">LASCON-4</guid>
+        </item>
+        <item>
+            <title>LASER Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/LASER</link>
+            <description><![CDATA[All the LASER conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:49:20 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/LASER archive - infocon.org.torrent" length="2350106449" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">LASER-1</guid>
+        </item>
+        <item>
+            <title>Layer8 Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Layer8</link>
+            <description><![CDATA[All the Layer8 conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:29:12 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Layer8 archive - infocon.org.torrent" length="2394671644" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Layer8-2</guid>
+        </item>
+        <item>
+            <title>LayerOne Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/LayerOne</link>
+            <description><![CDATA[All the LayerOne conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:28:30 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/LayerOne archive - infocon.org.torrent" length="16942919223" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">layerone-6</guid>
+        </item>
+        <item>
+            <title>leHACK Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/leHACK</link>
+            <description><![CDATA[All the leHACK conference audio and video that we could find.]]></description>
+            <pubDate>Sat, 04 Jan 2020 00:32:28 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/leHACK archive - infocon.org.torrent" length="709673950" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">leHACK-1</guid>
+        </item>
+        <item>
+            <title>LevelUp Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/LevelUp</link>
+            <description><![CDATA[All the LevelUp conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:23:35 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/LevelUp archive - infocon.org.torrent" length="4005028707" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">LevelUp-4</guid>
+        </item>
+        <item>
+            <title>LocoMocoSec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/LocoMocoSec</link>
+            <description><![CDATA[All the LocoMocoSec conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:50:54 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/LocoMocoSec archive - infocon.org.torrent" length="1826263082" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">LocoMocoSec-2</guid>
+        </item>
+        <item>
+            <title>Louisville Metro InfoSec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Louisville Metro InfoSec</link>
+            <description><![CDATA[All the Louisville Metro InfoSec conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:51:15 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Louisville Metro InfoSec archive - infocon.org.torrent" length="3676619750" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">LouisvilleMetroInfoSec-3</guid>
+        </item>
+        <item>
+            <title>MISP Summit Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/MISP Summit</link>
+            <description><![CDATA[All the MISP Summit conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 15:45:23 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/MISP Summit archive v2- infocon.org.torrent" length="1291202583" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">mispsummit-v2-1</guid>
+        </item>
+        <item>
+            <title>MISP Summit Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/MISP Summit</link>
+            <description><![CDATA[All the MISP Summit conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 15:57:15 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/MISP Summit archive v1 - infocon.org.torrent" length="1291202583" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">mispsummit-6</guid>
+        </item>
+        <item>
+            <title>NANOG Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/NANOG - infocon.org.torrent</link>
+            <description><![CDATA[All the NANOG conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:25:06 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NANOG archive v2 - infocon.org.torrent" length="80119897614" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NANOG-v2-1</guid>
+        </item>
+        <item>
+            <title>NANOG Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/NANOG - infocon.org.torrent</link>
+            <description><![CDATA[All the NANOG conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:25:08 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NANOG archive v1 - infocon.org.torrent" length="80119897614" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NANOG-7</guid>
+        </item>
+        <item>
+            <title>NolaCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/NolaCon</link>
+            <description><![CDATA[All the NolaCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:52:15 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NolaCon archive - infocon.org.torrent" length="5716019712" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">nolacon-4</guid>
+        </item>
+        <item>
+            <title>NoNameCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/NoNameCon</link>
+            <description><![CDATA[All the NoNameCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:27:31 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NoNameCon archive v2 - infocon.org.torrent" length="3573723062" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NoNameCon-v2-2</guid>
+        </item>
+        <item>
+            <title>NoNameCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/NoNameCon</link>
+            <description><![CDATA[All the NoNameCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 15:27:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NoNameCon archive v1 - infocon.org.torrent" length="3573723062" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NoNameCon-5</guid>
+        </item>
+        <item>
+            <title>NorthSec Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/NorthSec</link>
+            <description><![CDATA[All the NorthSec conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:34:41 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NorthSec archive v2 - infocon.org.torrent" length="5395136519" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NorthSec-v2-1</guid>
+        </item>
+        <item>
+            <title>NorthSec Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/NorthSec</link>
+            <description><![CDATA[All the NorthSec conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:34:44 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NorthSec archive v1 - infocon.org.torrent" length="5395136519" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NorthSec-5</guid>
+        </item>
+        <item>
+            <title>NotACon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/NotACon</link>
+            <description><![CDATA[All the NotACon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:53:30 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NotACon archive - infocon.org.torrent" length="49725534882" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NotACon-1</guid>
+        </item>
+        <item>
+            <title>NotPinkCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/NotPinkCon</link>
+            <description><![CDATA[All the NotPinkCon conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:24:25 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NotPinkCon archive - infocon.org.torrent" length="684183071" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">NotPinkCon-3</guid>
+        </item>
+        <item>
+            <title>Nuit Du Hack Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Nuit Du Hack</link>
+            <description><![CDATA[All the Nuit Du Hack conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:54:45 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Nuit Du Hack archive - infocon.org.torrent" length="15415751816" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">nuitduhack-3</guid>
+        </item>
+        <item>
+            <title>NullCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/NullCon</link>
+            <description><![CDATA[All the NullCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:21:22 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NullCon archive v2 - infocon.org.torrent" length="25758809534" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">nullcon-v2-1</guid>
+        </item>
+        <item>
+            <title>NullCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/NullCon</link>
+            <description><![CDATA[All the NullCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:21:24 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/NullCon archive v1 - infocon.org.torrent" length="25758809534" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">nullcon-7</guid>
+        </item>
+        <item>
+            <title>Observe Hack Make Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Observe Hack Make</link>
+            <description><![CDATA[All the Observe Hack Make conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:55:47 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Observe Hack Make archive - infocon.org.torrent" length="26988701566" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Observe-Hack-Make-1</guid>
+        </item>
+        <item>
+            <title>OffensiveCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OffensiveCon</link>
+            <description><![CDATA[All the OffensiveCon conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 11 May 2020 17:17:17 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OffensiveCon archive - infocon.org.torrent" length="2714011536" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OffensiveCon-2</guid>
+        </item>
+        <item>
+            <title>OFFZONE Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OFFZONE</link>
+            <description><![CDATA[All the OFFZONE conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 29 Jan 2020 14:17:21 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OFFZONE archive - infocon.org.torrent" length="2837333880" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OFFZONE-1</guid>
+        </item>
+        <item>
+            <title>OISF Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OISF</link>
+            <description><![CDATA[All the OISF conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:56:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OISF archive - infocon.org.torrent" length="2303330882" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OISF-3</guid>
+        </item>
+        <item>
+            <title>OPCDE Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OPCDE</link>
+            <description><![CDATA[All the OPCDE conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:19:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OPCDE archive - infocon.org.torrent" length="6105169432" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OPCDE-5</guid>
+        </item>
+        <item>
+            <title>O'Reilly Security Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/O'Reilly Security</link>
+            <description><![CDATA[All the O'Reilly Security conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:56:52 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/O%27Reilly Security archive - infocon.org.torrent" length="1023844266" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OReillySec-3</guid>
+        </item>
+        <item>
+            <title>OURSA Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OURSA</link>
+            <description><![CDATA[All the OURSA conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:57:09 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OURSA archive - infocon.org.torrent" length="1011834715" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OURSA-2</guid>
+        </item>
+        <item>
+            <title>outerz0ne Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/outerz0ne</link>
+            <description><![CDATA[All the outerz0ne conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:57:27 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/outerz0ne archive - infocon.org.torrent" length="8952065083" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">outerz0ne-2</guid>
+        </item>
+        <item>
+            <title>OWASP Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OWASP</link>
+            <description><![CDATA[All the OWASP conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 11 May 2020 17:19:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OWASP archive - infocon.org.torrent" length="117722364224" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OWASP-9</guid>
+        </item>
+        <item>
+            <title>OzSecCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/OzSecCon</link>
+            <description><![CDATA[All the OzSecCon conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:25:18 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/OzSecCon archive - infocon.org.torrent" length="3367061143" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">OzSecCon-4</guid>
+        </item>
+        <item>
+            <title>Pacific Hackers Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Pacific Hackers</link>
+            <description><![CDATA[All the Pacific Hackers conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:01:34 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Pacific Hackers archive v2 - infocon.org.torrent" length="1599882007" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Pacific Hackers-v2-1</guid>
+        </item>
+        <item>
+            <title>Pacific Hackers Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Pacific Hackers</link>
+            <description><![CDATA[All the Pacific Hackers conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:01:36 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Pacific Hackers archive v1 - infocon.org.torrent" length="1599882007" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Pacific Hackers-4</guid>
+        </item>
+        <item>
+            <title>PajamaCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/PajamaCon</link>
+            <description><![CDATA[All the PajamaCon conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 13:49:09 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PajamaCon archive - infocon.org.torrent" length="519324719" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PajamaCon-1</guid>
+        </item>
+        <item>
+            <title>PasswordsCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/PasswordsCon</link>
+            <description><![CDATA[All the PasswordsCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:10:50 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PasswordsCon archive v2 - infocon.org.torrent" length="18096734272" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PasswordsCon-v2-1</guid>
+        </item>
+        <item>
+            <title>PasswordsCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/PasswordsCon</link>
+            <description><![CDATA[All the PasswordsCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 21:10:49 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PasswordsCon archive v1 - infocon.org.torrent" length="18096734272" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PasswordsCon-5</guid>
+        </item>
+        <item>
+            <title>PETS Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/PETS</link>
+            <description><![CDATA[All the PETS conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:59:07 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PETS archive - infocon.org.torrent" length="8157762318" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PETS-4</guid>
+        </item>
+        <item>
+            <title>PH-Neutral Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/PH-Neutral</link>
+            <description><![CDATA[All the PH-Neutral conference audio and video that we could find.]]></description>
+            <pubDate>Fri, 27 Mar 2020 14:12:16 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PH-Neutral archive - infocon.org.torrent" length="8150665516" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PH-Neutral-1</guid>
+        </item>
+        <item>
+            <title>PhreakNIC Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/PhreakNIC</link>
+            <description><![CDATA[All the PhreakNIC conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:29:59 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/PhreakNIC archive - infocon.org.torrent" length="40630894874" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PhreakNIC-5</guid>
+        </item>
+        <item>
+            <title>Positive Hack Days Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Positive Hack Days</link>
+            <description><![CDATA[All the Positive Hack Days conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 14:59:39 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Positive Hack Days archive - infocon.org.torrent" length="202127308935" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">PHD-4</guid>
+        </item>
+        <item>
+            <title>Privacy Camp Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Privacy Camp</link>
+            <description><![CDATA[All the Privacy Camp conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:11:38 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Privacy Camp archive - infocon.org.torrent" length="7773579994" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">privacycamp-4</guid>
+        </item>
+        <item>
+            <title>QuahogCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/QuahogCon</link>
+            <description><![CDATA[All the QuahogCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:00:17 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/QuahogCon archive - infocon.org.torrent" length="943079891" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">QuahogCon-2</guid>
+        </item>
+        <item>
+            <title>r2con Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/r2con</link>
+            <description><![CDATA[All the r2con conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:50:06 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/r2con archive - infocon.org.torrent" length="3333252476" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">r2con-5</guid>
+        </item>
+        <item>
+            <title>Real World Crypto Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Real World Crypto.torrent</link>
+            <description><![CDATA[All the Real World Crypto conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:00:54 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Real World Crypto.torrent" length="7588222077" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RealworldCrypto-5</guid>
+        </item>
+        <item>
+            <title>REcon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/REcon</link>
+            <description><![CDATA[All the REcon conference audio and video that we could find.]]></description>
+            <pubDate>Tue, 03 Mar 2020 22:20:37 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/REcon archive - infocon.org.torrent" length="22430273525" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">REcon-4</guid>
+        </item>
+        <item>
+            <title>RightsCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/RightsCon</link>
+            <description><![CDATA[All the RightsCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:19:47 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RightsCon archive v2 - infocon.org.torrent" length="13563058684" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RightsCon-v2-1</guid>
+        </item>
+        <item>
+            <title>RightsCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/RightsCon</link>
+            <description><![CDATA[All the RightsCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:19:49 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RightsCon archive v1 - infocon.org.torrent" length="13563058684" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RightsCon-3</guid>
+        </item>
+        <item>
+            <title>RoadSec Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/RoadSec</link>
+            <description><![CDATA[All the RoadSec conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:27:52 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RoadSec archive v2 - infocon.org.torrent" length="10606883183" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RoadSec-v2-1</guid>
+        </item>
+        <item>
+            <title>RoadSec Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/RoadSec</link>
+            <description><![CDATA[All the RoadSec conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:01:44 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RoadSec archive v1 - infocon.org.torrent" length="10606883183" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RoadSec-4</guid>
+        </item>
+        <item>
+            <title>r00tz Asylum Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/r00tz Asylum</link>
+            <description><![CDATA[All the r00tz Asylum conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:02:04 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/r00tz Asylum archive - infocon.org.torrent" length="10021770596" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">r00tz-3</guid>
+        </item>
+        <item>
+            <title>rootc0n Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/rootc0n</link>
+            <description><![CDATA[All the rootc0n conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:26:13 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/rootc0n archive - infocon.org.torrent" length="4980120915" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">rootc0n-4</guid>
+        </item>
+        <item>
+            <title>Rooted CON Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Rooted CON</link>
+            <description><![CDATA[All the Rooted CON conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 15:00:12 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Rooted CON archive - infocon.org.torrent" length="46190419557" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RootedCON-7</guid>
+        </item>
+        <item>
+            <title>ROMHACK Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/ROMHACK</link>
+            <description><![CDATA[All the ROMHACK conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:20:33 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ROMHACK archive v2 - infocon.org.torrent" length="4748146872" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ROMHACK-v2-1</guid>
+        </item>
+        <item>
+            <title>ROMHACK Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/ROMHACK</link>
+            <description><![CDATA[All the ROMHACK conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:20:34 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ROMHACK archive v1 - infocon.org.torrent" length="4748146872" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ROMHACK-4</guid>
+        </item>
+        <item>
+            <title>RSA Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/RSA</link>
+            <description><![CDATA[All the RSA conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 15 Jun 2020 17:37:23 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RSA archive - infocon.org.torrent" length="109317945043" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RSA-4</guid>
+        </item>
+        <item>
+            <title>Rubicon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Rubicon</link>
+            <description><![CDATA[All the Rubicon conference audio and video that we could find.]]></description>
+            <pubDate>Tue, 03 Mar 2020 22:22:07 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Rubicon archive - infocon.org.torrent" length="1354121902" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Rubicon-1</guid>
+        </item>
+        <item>
+            <title>RuhrSec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/RuhrSec</link>
+            <description><![CDATA[All the RuhrSec conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:13:14 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RuhrSec archive - infocon.org.torrent" length="2525642766" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RuhrSec-4</guid>
+        </item>
+        <item>
+            <title>RuxCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/RuxCon</link>
+            <description><![CDATA[All the RuxCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:03:50 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RuxCon archive - infocon.org.torrent" length="5963358758" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RuxCon-1</guid>
+        </item>
+        <item>
+            <title>RVAsec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/RVAsec</link>
+            <description><![CDATA[All the RVAsec conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:57:28 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RVAsec archive v2 - infocon.org.torrent" length="9928643175" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RVAsec-v2-1</guid>
+        </item>
+        <item>
+            <title>RVAsec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/RVAsec</link>
+            <description><![CDATA[All the RVAsec conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:57:37 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/RVAsec archive v1 - infocon.org.torrent" length="9928643175" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">RVAsec-3</guid>
+        </item>
+        <item>
+            <title>S4 Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/S4</link>
+            <description><![CDATA[All the S4 conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:14:19 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/S4 archive - infocon.org.torrent" length="24699601435" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">s4-4</guid>
+        </item>
+        <item>
+            <title>SaintCon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/SaintCon</link>
+            <description><![CDATA[All the SaintCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:25:06 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SaintCon archive v2 - infocon.org.torrent" length="17752070852" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">saintcon-v2-1</guid>
+        </item>
+        <item>
+            <title>SaintCon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/SaintCon</link>
+            <description><![CDATA[All the SaintCon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:25:05 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SaintCon archive v1 - infocon.org.torrent" length="17752070852" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">saintcon-6</guid>
+        </item>
+        <item>
+            <title>SANS Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/SANS</link>
+            <description><![CDATA[All the SANS conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:57:38 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SANS archive v2 - infocon.org.torrent" length="20110299638" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SANS-v2-1</guid>
+        </item>
+        <item>
+            <title>SANS Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/SANS</link>
+            <description><![CDATA[All the SANS conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:57:40 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SANS archive v1 - infocon.org.torrent" length="20110299638" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SANS-5</guid>
+        </item>
+        <item>
+            <title>SEC-T Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SEC-T</link>
+            <description><![CDATA[All the SEC-T conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:05:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SEC-T archive - infocon.org.torrent" length="12152813451" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SEC-T-5</guid>
+        </item>
+        <item>
+            <title>SecTor Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SecTor</link>
+            <description><![CDATA[All the SecTor conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:05:49 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SecTor archive - infocon.org.torrent" length="10548541215" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SecTor-3</guid>
+        </item>
+        <item>
+            <title>Securi-Tay Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Securi-Tay</link>
+            <description><![CDATA[All the Securi-Tay conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:25:03 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Securi-Tay archive v2 - infocon.org.torrent" length="7305536015" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Securi-Tay-v2-1</guid>
+        </item>
+        <item>
+            <title>Securi-Tay Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Securi-Tay</link>
+            <description><![CDATA[All the Securi-Tay conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 16:25:00 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Securi-Tay archive v1 - infocon.org.torrent" length="7305536015" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Securi-Tay-4</guid>
+        </item>
+        <item>
+            <title>Security BSides Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Security BSides</link>
+            <description><![CDATA[All the Security BSides conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:37:35 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Security BSides archive v2 - infocon.org.torrent" length="330307346350" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">BSides-v2-1</guid>
+        </item>
+        <item>
+            <title>Security BSides Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Security BSides</link>
+            <description><![CDATA[All the Security BSides conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:37:37 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Security BSides archive v1 - infocon.org.torrent" length="330307346350" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">BSides-18</guid>
+        </item>
+        <item>
+            <title>Security Fest Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Security Fest</link>
+            <description><![CDATA[All the Security Fest conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:52:54 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Security Fest archive - infocon.org.torrent" length="4243215354" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Security-Fest-3</guid>
+        </item>
+        <item>
+            <title>Security Onion Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Security Onion</link>
+            <description><![CDATA[All the Security Onion conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:06:34 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Security Onion archive v2 - infocon.org.torrent" length="1692392053" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Security-Onion-v2-1</guid>
+        </item>
+        <item>
+            <title>Security Onion Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Security Onion</link>
+            <description><![CDATA[All the Security Onion conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:06:36 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Security Onion archive v1 - infocon.org.torrent" length="1692392053" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Security-Onion-6</guid>
+        </item>
+        <item>
+            <title>Security PWNing Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Security PWNing</link>
+            <description><![CDATA[All the Security PWNing conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:25:43 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Security PWNing archive - infocon.org.torrent" length="892293363" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Security PWNing-2</guid>
+        </item>
+        <item>
+            <title>SecureWV Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SecureWV</link>
+            <description><![CDATA[All the SecureWV conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:51:36 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SecureWV archive - infocon.org.torrent" length="12910126088" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SecureWV-6</guid>
+        </item>
+        <item>
+            <title>SHA2017 Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SHA2017</link>
+            <description><![CDATA[All the SHA2017 conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:26:28 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SHA2017 archive - infocon.org.torrent" length="20767038127" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SHA2017-2</guid>
+        </item>
+        <item>
+            <title>Shakacon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Shakacon</link>
+            <description><![CDATA[All the Shakacon conference audio and video that we could find.]]></description>
+            <pubDate>Fri, 25 Sep 2020 21:19:45 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Shakacon archive - infocon.org.torrent" length="5696131513" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Shakacon-5</guid>
+        </item>
+        <item>
+            <title>Shellcon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Shellcon</link>
+            <description><![CDATA[All the Shellcon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:29:44 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Shellcon archive v2 - infocon.org.torrent" length="7413606710" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Shellcon-v2-1</guid>
+        </item>
+        <item>
+            <title>Shellcon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Shellcon</link>
+            <description><![CDATA[All the Shellcon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:29:46 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Shellcon archive v1 - infocon.org.torrent" length="7413606710" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Shellcon-4</guid>
+        </item>
+        <item>
+            <title>ShmooCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/ShmooCon</link>
+            <description><![CDATA[All the ShmooCon conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 23 Mar 2020 16:47:15 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ShmooCon archive - infocon.org.torrent" length="56629971683" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ShmooCon-6</guid>
+        </item>
+        <item>
+            <title>ShowMeCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/ShowMeCon</link>
+            <description><![CDATA[All the ShowMeCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:27:26 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ShowMeCon archive - infocon.org.torrent" length="8166617406" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">showmecon-5</guid>
+        </item>
+        <item>
+            <title>SIRAcon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SIRAcon</link>
+            <description><![CDATA[All the SIRAcon conference audio and video that we could find.]]></description>
+            <pubDate>Tue, 07 Apr 2020 13:51:30 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SIRAcon archive - infocon.org.torrent" length="3452141221" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SIRAcon-1</guid>
+        </item>
+        <item>
+            <title>SkyDogCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SkyDogCon</link>
+            <description><![CDATA[All the SkyDogCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:27:45 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SkyDogCon archive - infocon.org.torrent" length="16470247902" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SkyDogCon-4</guid>
+        </item>
+        <item>
+            <title>SOURCE Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/SOURCE</link>
+            <description><![CDATA[All the SOURCE conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:32:30 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SOURCE archive v2 - infocon.org.torrent" length="36502745541" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SOURCE-v2-1</guid>
+        </item>
+        <item>
+            <title>SOURCE Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/SOURCE</link>
+            <description><![CDATA[All the SOURCE conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 17:32:31 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SOURCE archive v1 - infocon.org.torrent" length="36502745541" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SOURCE-2</guid>
+        </item>
+        <item>
+            <title>SteelCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SteelCon</link>
+            <description><![CDATA[All the SteelCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:28:25 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SteelCon archive - infocon.org.torrent" length="19352472299" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SteelCon-5</guid>
+        </item>
+        <item>
+            <title>SyScan Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/SyScan</link>
+            <description><![CDATA[All the SyScan conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:28:47 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/SyScan archive - infocon.org.torrent" length="23578529457" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">SyScan-4</guid>
+        </item>
+        <item>
+            <title>t2 infosec Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/t2 infosec</link>
+            <description><![CDATA[All the t2 infosec conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 11 May 2020 17:22:00 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/t2 infosec archive - infocon.org.torrent" length="2566376638" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">t2infosec-4</guid>
+        </item>
+        <item>
+            <title>TakeDownCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/TakeDownCon</link>
+            <description><![CDATA[All the TakeDownCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:29:19 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/TakeDownCon archive - infocon.org.torrent" length="1413814039" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">TakeDownCon-2</guid>
+        </item>
+        <item>
+            <title>TheIACR Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/TheIACR</link>
+            <description><![CDATA[All the TheIACR conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 15:19:15 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/TheIACR archive - infocon.org.torrent" length="98755907451" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">theiacr-8</guid>
+        </item>
+        <item>
+            <title>TheLongCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/TheLongCon</link>
+            <description><![CDATA[All the TheLongCon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 06 Feb 2020 10:54:59 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/TheLongCon archive - infocon.org.torrent" length="1094831334" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">TheLongCon-4</guid>
+        </item>
+        <item>
+            <title>TheSAS Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/TheSAS</link>
+            <description><![CDATA[All the TheSAS conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:17:40 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/TheSAS archive - infocon.org.torrent" length="4059905602" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">TheSAS-5</guid>
+        </item>
+        <item>
+            <title>THREAT CON Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/THREAT CON/</link>
+            <description><![CDATA[All the THREAT CON conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 29 Jan 2020 13:28:37 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/THREAT CON archive - infocon.org.torrent" length="948802752" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">THREATCON-1</guid>
+        </item>
+        <item>
+            <title>Toorcon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Toorcon</link>
+            <description><![CDATA[All the Toorcon conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:31:40 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Toorcon archive - infocon.org.torrent" length="19853344941" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">Toorcon-6</guid>
+        </item>
+        <item>
+            <title>TROOPERS Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/TROOPERS</link>
+            <description><![CDATA[All the TROOPERS conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:31:55 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/TROOPERS archive - infocon.org.torrent" length="74058656087" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">TROOPERS-4</guid>
+        </item>
+        <item>
+            <title>TrustyCon Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/TrustyCon</link>
+            <description><![CDATA[All the TrustyCon conference audio and video that we could find.]]></description>
+            <pubDate>Fri, 27 Mar 2020 14:13:19 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/TrustyCon archive - infocon.org.torrent" length="156153550" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">TrustyCon-1</guid>
+        </item>
+        <item>
+            <title>USENIX ATC Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/USENIX ATC</link>
+            <description><![CDATA[All the USENIX ATC conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:14:34 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX ATC archive v2 - infocon.org.torrent" length="3928606928" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">usenix-atc-v2-1</guid>
+        </item>
+        <item>
+            <title>USENIX ATC Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/USENIX ATC</link>
+            <description><![CDATA[All the USENIX ATC conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:14:36 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX ATC archive v1 - infocon.org.torrent" length="3928606928" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">usenix-atc-2</guid>
+        </item>
+        <item>
+            <title>USENIX Enigma Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/USENIX Enigma</link>
+            <description><![CDATA[All the USENIX Enigma conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:22:16 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX Enigma archive v2 - infocon.org.torrent" length="9416272848" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">UsenixEnigma-v2-1</guid>
+        </item>
+        <item>
+            <title>USENIX Enigma Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/USENIX Enigma</link>
+            <description><![CDATA[All the USENIX Enigma conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:22:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX Enigma archive v1 - infocon.org.torrent" length="9416272848" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">UsenixEnigma-6</guid>
+        </item>
+        <item>
+            <title>USENIX Security Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/USENIX Security</link>
+            <description><![CDATA[All the USENIX Security conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:20:30 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX Security archive v2 - infocon.org.torrent" length="34878974483" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">UsenixSecurity-v2-1</guid>
+        </item>
+        <item>
+            <title>USENIX Security Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/USENIX Security</link>
+            <description><![CDATA[All the USENIX Security conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 01 Apr 2021 16:20:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX Security archive v1 - infocon.org.torrent" length="34878974483" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">UsenixSecurity-7</guid>
+        </item>
+        <item>
+            <title>USENIX SOUPS Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/USENIX SOUPS</link>
+            <description><![CDATA[All the USENIX SOUPS conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:52:03 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX SOUPS archive v2 - infocon.org.torrent" length="1513102951" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">USENIX-SOUPS-v2-1</guid>
+        </item>
+        <item>
+            <title>USENIX SOUPS Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/USENIX SOUPS</link>
+            <description><![CDATA[All the USENIX SOUPS conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:50:58 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX SOUPS archive v1 - infocon.org.torrent" length="1513102951" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">USENIX-SOUPS-1</guid>
+        </item>
+        <item>
+            <title>USENIX WOOT Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/USENIX WOOT</link>
+            <description><![CDATA[All the USENIX WOOT conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:18:18 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX WOOT archive v2 - infocon.org.torrent" length="2607673133" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">USENIX-WOOT-v2-1</guid>
+        </item>
+        <item>
+            <title>USENIX WOOT Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/USENIX WOOT</link>
+            <description><![CDATA[All the USENIX WOOT conference audio and video that we could find.]]></description>
+            <pubDate>Tue, 07 Apr 2020 13:54:29 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/USENIX WOOT archive v1 - infocon.org.torrent" length="2607673133" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">USENIX-WOOT-2</guid>
+        </item>
+        <item>
+            <title>Virus Bulletin Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/Virus Bulletin</link>
+            <description><![CDATA[All the Virus Bulletin conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 03 Jun 2021 14:07:22 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Virus Bulletin archive v2 - infocon.org.torrent" length="5508264165" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">virusbulletin-v2-1</guid>
+        </item>
+        <item>
+            <title>Virus Bulletin Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/Virus Bulletin</link>
+            <description><![CDATA[All the Virus Bulletin conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:32:39 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Virus Bulletin archive v1 - infocon.org.torrent" length="5508264165" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">virusbulletin-7</guid>
+        </item>
+        <item>
+            <title>What the Hack Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/What The Hack</link>
+            <description><![CDATA[All the What the Hack conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:33:09 -0700</pubDate>
+            <enclosure url="https://infocon.org/cons/What The Hack archive - infocon.org.torrent" length="20437355618" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">What-the-Hack-1</guid>
+        </item>
+        <item>
+            <title>Wild West Hackin Fest Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Wild West Hackin Fest</link>
+            <description><![CDATA[All the Wild West Hackin Fest conference audio and video that we could find.]]></description>
+            <pubDate>Mon, 07 Sep 2020 14:57:54 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Wild West Hackin Fest archive - infocon.org.torrent" length="4764336664" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">WildWestHackinFest-4</guid>
+        </item>
+        <item>
+            <title>x33fcon Hacking Conference Series in x.265 format BTv2</title>
+            <link>https://infocon.org/cons/x33fcon</link>
+            <description><![CDATA[All the x33fcon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:47:21 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/x33fcon archive v2 - infocon.org.torrent" length="3945864483" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">x33fcon-v2-1</guid>
+        </item>
+        <item>
+            <title>x33fcon Hacking Conference Series in x.265 format BTv1</title>
+            <link>https://infocon.org/cons/x33fcon</link>
+            <description><![CDATA[All the x33fcon conference audio and video that we could find.]]></description>
+            <pubDate>Wed, 06 Jan 2021 20:47:23 -0800</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/x33fcon archive v1 - infocon.org.torrent" length="3945864483" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">x33fcon-5</guid>
+        </item>
+        <item>
+            <title>You Shot the Sheriff Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/You Shot The Sheriff</link>
+            <description><![CDATA[All the You Shot the Sheriff conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:34:14 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/You Shot The Sheriff archive - infocon.org.torrent" length="2120245683" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">You-Shot-the-Sheriff-1</guid>
+        </item>
+        <item>
+            <title>Zero Day Con Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/Zero Day Con</link>
+            <description><![CDATA[All the Zero Day Con conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:35:03 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/Zero Day Con archive - infocon.org.torrent" length="822321279" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ZeroDayCon-3</guid>
+        </item>
+        <item>
+            <title>ZeroNights Hacking Conference Series in x.265 format</title>
+            <link>https://infocon.org/cons/ZeroNights</link>
+            <description><![CDATA[All the ZeroNights conference audio and video that we could find.]]></description>
+            <pubDate>Thu, 24 Oct 2019 15:35:19 -0700</pubDate>
+            <category>Cons</category>
+            <enclosure url="https://infocon.org/cons/ZeroNights archive - infocon.org.torrent" length="22763106367" type="application/x-bittorrent"/>
+            <guid isPermaLink="false">ZeroNights-6</guid>
+        </item>
+    </channel>
+</rss>
